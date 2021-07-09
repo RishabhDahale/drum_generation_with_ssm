@@ -1,6 +1,8 @@
 Drum Generation with Self-Similarity Matrix (SSM)
 ==================
 
+**This version is updated in June 2020 to work with updated version of pypianoroll and tensorflow. Check requirements file for dependency. To run this on colab directly, [copy this](https://drive.google.com/drive/folders/1-73Y_yKuKVi-t6SPddck0U4yPqZpIIUF?usp=sharing) folder to your google drive.**
+
 The goal of this project is using machine learning model to generate long drum-track for a given song.
 With SSM as song structure representation, we successfully demonstrate that it is possible to generate drum-track with long-term consistency. This project uses Google's [TensorFlow](https://www.tensorflow.org/ "link") and [Jupyter Notebook](https://github.com/jupyter/notebook "link") to make the implementation easier.
 
